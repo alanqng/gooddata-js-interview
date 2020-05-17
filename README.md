@@ -1,5 +1,5 @@
 # gooddata-js-interview
-Frontend Interview Examples
+For testing just run yarn start, you will be able to change the months and received the correct data for each month
 
 ## GoodData Homework
 
