@@ -1,5 +1,5 @@
 # gooddata-js-interview
-For testing just run yarn start, you will be able to change the months and received the correct data for each month
+For testing just install all dependicies with `yarn install` and then run the app with  `yarn start`, you will be able to change the months and received the correct data for each month.
 
 ## GoodData Homework
 
